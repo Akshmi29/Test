@@ -1,13 +1,14 @@
+[
   {
     "userId": 1,
     "id": 1,
     "Name": "Akshaya",
-    "body": "Hi Akshaya Welcome"
+    "message": "Good eve"
   },
- {
-    "userId": 22,
-    "id": 01,
-    "Name": "Google",
-    "body": "Goodeve google"
+  {
+    "userId": 1,
+    "id": 2,
+    "Name": "Zoe",
+    "message": "Welcome"
   }
-  
+]
