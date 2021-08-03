@@ -1,13 +1,11 @@
 [
   {
     "userId": 29,
-    "id": 1,
     "Name": "Akshaya",
     "message": "Good eve"
   },
   {
     "userId": 1,
-    "id": 2,
     "Name": "Zoe",
     "message": "Welcome"
   }
