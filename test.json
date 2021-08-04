@@ -1,17 +1,2 @@
-[
-  {
-    "userId": 29,
-    "Name": "Akshaya",
-    "message": "Good eve"
-  },
-  {
-    "userId": 1,
-    "Name": "Zoe",
-    "message": "Welcome"
-  }
-]
- {
-    "userId": 29,
-    "Name": "Googlr",
-    "message": "wonderful"
-  }
+[{"userId": 29,"Name": "Akshaya","message": "Good eve"},{"userId": 1,"Name": "Zoe","message": "Welcome"}]
+ 
